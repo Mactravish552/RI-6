@@ -19,7 +19,7 @@ npm install -D @types/node
 ```
 
 ### 3. Como inicializar os projetos
-Para Projetos TypeScript RI5
+Para Projetos TypeScript RI6
 Primeiro é necessário compilar o código para JavaScript e depois executá-lo:
 
 ```Bash
